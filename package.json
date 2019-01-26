@@ -29,7 +29,7 @@
     "@adonisjs/mrm-preset": "^1.0.14",
     "@adonisjs/sink": "^1.0.17",
     "argon2": "^0.19.3",
-    "clear-require": "^2.0.0",
+    "clear-require": "^3.0.0",
     "commitizen": "^3.0.2",
     "cookie-signature": "^1.1.0",
     "coveralls": "^3.0.2",
