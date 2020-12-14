@@ -28,7 +28,7 @@
     "@adonisjs/fold": "^4.0.9",
     "@adonisjs/mrm-preset": "^1.0.14",
     "@adonisjs/sink": "^1.0.17",
-    "argon2": "^0.19.3",
+    "argon2": "^0.27.1",
     "clear-require": "^2.0.0",
     "commitizen": "^3.0.2",
     "cookie-signature": "^1.1.0",
