@@ -49,7 +49,7 @@
     "@adonisjs/generic-exceptions": "^2.0.1",
     "@adonisjs/middleware-base": "^1.0.0",
     "bcryptjs": "^2.4.3",
-    "co-compose": "^4.0.0",
+    "co-compose": "^6.1.0",
     "debug": "^4.1.0",
     "dotenv": "^6.1.0",
     "edge.js": "^1.1.4",
