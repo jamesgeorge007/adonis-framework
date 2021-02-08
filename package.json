@@ -56,7 +56,7 @@
     "eventemitter2": "^5.0.1",
     "haye": "^2.0.2",
     "lodash": "^4.17.11",
-    "macroable": "^1.0.0",
+    "macroable": "^5.1.0",
     "node-cookie": "^2.1.1",
     "node-exceptions": "^3.0.0",
     "node-req": "^2.1.1",
